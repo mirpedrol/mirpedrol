@@ -1,6 +1,6 @@
-<!--### Hi there 👋
+### Hi there 👋
 
-
+<!--
 **mirpedrol/mirpedrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mirpedrol&hide=stars&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mirpedrol/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mirpedrol&hide=stars&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/mirpedrol/github-readme-stats#gh-light-mode-only)
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=mirpedrol&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mirpedrol/github-readme-stats)
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=mirpedrol&layout=compact&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/mirpedrol/github-readme-stats)
 -->
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mirpedrol&hide_border=true&hide=stars&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mirpedrol/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mirpedrol&hide_border=true&hide=stars&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/mirpedrol/github-readme-stats#gh-light-mode-only)
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=mirpedrol&hide_border=true&hide=html,php&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/mirpedrol/github-readme-stats#gh-dark-mode-only)
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=mirpedrol&hide_border=true&layout=compact&theme=default#gh-light-mode-only)](https://github.com/mirpedrol/github-readme-stats#gh-light-mode-only)
+
