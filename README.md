@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mirpedrol&hide_border=true&hide=stars&show_icons=true&theme=transparent)](https://github.com/mirpedrol/github-readme-stats)
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=mirpedrol&&hide_border=true&layout=compact&theme=defaultsize_weight=0.5&count_weight=0.5&hide=html,php)](https://github.com/mirpedrol/github-readme-stats)
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=mirpedrol&&hide_border=true&layout=compact&theme=transparent&count_weight=0.5&hide=html,php)](https://github.com/mirpedrol/github-readme-stats)
 
