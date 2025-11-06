@@ -18,10 +18,10 @@ I’m an active supporter of open source, part of the [nf-core](https://nf-co.re
 
 I’m also committed to supporting women in STEM: I’ve been part of [Young IT Girls](https://youngitgirls.org/) (check them out, they are cool!) and a mentor in the [Technovation Challenge](https://technovationchallenge.org/es/). I love helping young girls and women grow in tech.
 
-I am a researcher. Currently working at the CRG, developing a way to allow the benchmark of analysis tools.
-Recently, I’ve been diving into LLMs and MCP, and I really enjoy learning new things.
+I am a researcher. Currently working at the [CRG](https://www.crg.eu/), developing a way to allow the benchmark of analysis tools.
+Recently, I’ve been diving into LLMs and MCP, I really enjoy learning new things.
 
-I’m also a freelancer. I have started working on a personal project to help coding teachers guide their students better. And also open to small projects and collaborations.
+I’m also a freelancer. I have started working on a personal project to help coding teachers guide their students better. And open to small projects and collaborations.
 
 ### Contact me
 
