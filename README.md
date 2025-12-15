@@ -10,7 +10,7 @@ Although I’m still passionate about genetics and synthetic biology, I’ve shi
 
 
 I code mostly in Python. <img src="https://img.icons8.com/color/48/python--v1.png" width="3.5%"/>
-During my master’s thesis I fell in love with Nextflow. <img src="https://github.com/nextflow-io/trademark/blob/master/nextflow-icon.png?raw=true" width="3.5%"/>
+During my master’s thesis, I fell in love with Nextflow. <img src="https://github.com/nextflow-io/trademark/blob/master/nextflow-icon.png?raw=true" width="3.5%"/>
 
 ### What I do
 
@@ -25,7 +25,7 @@ I’m also a freelancer. I have started working on a personal project to help co
 
 ### Contact me
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/juliamirpedrol/)  &nbsp; [<img src="https://img.icons8.com/windows/32/orcid.png" width="3.5%" style="background-color:#a5ce3d"/>](https://orcid.org/0000-0001-6104-9260)  &nbsp; <a href="mailto:mirp.julia@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/juliamirpedrol/)  &nbsp; [<img src="https://img.icons8.com/windows/32/orcid.png" width="3.5%" style="background-color:#a5ce3d"/>](https://orcid.org/0000-0001-6104-9260)  &nbsp; <a href="mailto:mirp.julia@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp; [<img src="https://img.icons8.com/color/32/internet.png" width="3.5%" style="background-color:#a5ce3d"/>]([https://orcid.org/0000-0001-6104-9260](https://mirpedrol.github.io/juliamirpedrol/index.html)) 
 
 
 ### Some stats
