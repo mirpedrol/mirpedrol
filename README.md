@@ -30,5 +30,5 @@ I’m also a freelancer. I have started working on a personal project to help co
 
 ### Some stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mirpedrol&hide_border=true&hide=stars&show_icons=true&theme=transparent)](https://github.com/mirpedrol/github-readme-stats)
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=mirpedrol&&hide_border=true&layout=compact&theme=transparent&count_weight=0.5&hide=html,php)](https://github.com/mirpedrol/github-readme-stats)
+![GitHub stats](./profile/stats.svg)
+![Top Languagess](./profile/top-langs.svg)
