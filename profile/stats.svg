@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">J&#250;lia Mir Pedrol's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Commits  (last year) : 508, Total PRs: 862, Total Issues: 124, Contributed to (last year): 22</desc>
+        <desc id="descId">Total Commits  (last year) : 500, Total PRs: 862, Total Issues: 124, Contributed to (last year): 21</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 88.95614185623774;
+        stroke-dashoffset: 89.18586062511483;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >508</text>
+      >500</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >22</text>
+      >21</text>
     </g>
   </g>
     </svg>
